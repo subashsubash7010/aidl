@@ -216,9 +216,10 @@ Registeration Number : 212224220109
 ```
 
 ## OUTPUT
-<img width="969" height="656" alt="image" src="https://github.com/user-attachments/assets/a790e6f9-6d60-426c-98f9-4e483f4d5b47" />
 
-<img width="971" height="664" alt="image" src="https://github.com/user-attachments/assets/de3a44f0-66e9-4e2f-be7f-31b7bf08a7a8" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4c878073-517b-4a9e-a37a-65f367bbeb61" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/40b7d5bd-1ed5-4d3e-b975-e639cb901933" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2fcdfc9f-901a-4053-b594-f382d933bef6" />
 
 
 ## RESULT
